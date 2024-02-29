@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is the web page for p2p alerts app terms and conditions and privacy policy
