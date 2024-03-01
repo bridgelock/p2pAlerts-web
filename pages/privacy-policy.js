@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Navbar from "../components/Navbar";
+import contentStyles from "../styles/Content.module.css";
 
 const PrivacyPolicy = () => {
   return (
@@ -12,7 +13,7 @@ const PrivacyPolicy = () => {
         />
       </Head>
       <Navbar />
-      <div className="privacy-policy-content">
+      <div className={contentStyles.content}>
         <h1>Privacy Policy</h1>
         <p>
           We, as P2P Alerts team, take your privacy seriously. This Privacy

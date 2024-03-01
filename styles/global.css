@@ -31,6 +31,6 @@ p, li {
 @media screen and (max-width: 768px) {
   html,
   body {
-    margin: 0 10px;
+    margin: 0;
   }
 }

@@ -65,6 +65,10 @@
 }
 
 @media screen and (max-width: 768px) {
+  .navbar {
+    padding: 4px 20px;
+  }
+
   .menuIcon {
     display: block; /* Show the menu icon on smaller screens */
   }
@@ -73,7 +77,7 @@
     display: none; /* Hide the navigation links by default on smaller screens */
     flex-direction: column;
     position: absolute;
-    top: 82px; /* Adjust according to your navbar height */
+    top: 71px; /* Adjust according to your navbar height */
     right: 0;
     background-color: #179afe; /* Dark blue background color */
     width: 100%;

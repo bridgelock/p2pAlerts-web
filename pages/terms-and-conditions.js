@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Navbar from "../components/Navbar";
+import contentStyles from "../styles/Content.module.css";
 
 const TermsAndConditions = () => {
   return (
@@ -13,7 +14,7 @@ const TermsAndConditions = () => {
       </Head>
       <Navbar />
       <div>
-        <div className="terms-and-conditions-content">
+        <div className={contentStyles.content}>
           <h1>Terms and Conditions</h1>
           <p>
             Please read these terms and conditions carefully before using our
