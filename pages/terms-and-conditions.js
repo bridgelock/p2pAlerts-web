@@ -47,10 +47,8 @@ const TermsAndConditions = () => {
             Services. If you are a minor, you must have your parent or guardian
             read and agree to these Legal Terms prior to you using the Services.
           </p>
+          <h2>1. OUR SERVICES</h2>
           <p>
-            <strong>1. OUR SERVICES</strong>
-            <br />
-            <br />
             The information provided when using the Services is not intended for
             distribution to or use by any person or entity in any jurisdiction
             or country where such distribution or use would be contrary to law
@@ -60,13 +58,9 @@ const TermsAndConditions = () => {
             on their own initiative and are solely responsible for compliance
             with local laws, if and to the extent local laws are applicable.
           </p>
+          <h2>2. INTELLECTUAL PROPERTY RIGHTS</h2>
+          <h3>Our intellectual property</h3>
           <p>
-            <strong>2. INTELLECTUAL PROPERTY RIGHTS</strong>
-            <br />
-            <br />
-            <strong>Our intellectual property</strong>
-            <br />
-            <br />
             We are the owner or the licensee of all intellectual property rights
             in our Services, including all source code, databases,
             functionality, software, website designs, audio, video, text,
@@ -85,10 +79,8 @@ const TermsAndConditions = () => {
             IS" for your personal, non-commercial use or internal business
             purpose only.
           </p>
+          <h3>Your use of our Services</h3>
           <p>
-            <strong>Your use of our Services</strong>
-            <br />
-            <br />
             Subject to your compliance with these Legal Terms, including the
             "PROHIBITED ACTIVITIES" section below, we grant you a non-exclusive,
             non-transferable, revocable license to:
@@ -131,10 +123,8 @@ const TermsAndConditions = () => {
             material breach of our Legal Terms and your right to use our
             Services will terminate immediately.
           </p>
+          <h3>Your submissions</h3>
           <p>
-            <strong>Your submissions</strong>
-            <br />
-            <br />
             Please review this section and the
             <strong>"PROHIBITED ACTIVITIES"</strong> section carefully prior to
             using our Services to understand the (a) rights you give us and (b)
@@ -185,10 +175,8 @@ const TermsAndConditions = () => {
             because of your breach of (a) this section, (b) any third party’s
             intellectual property rights, or (c) applicable law.
           </p>
+          <h2>3. USER REPRESENTATIONS</h2>
           <p>
-            <strong>3. USER REPRESENTATIONS</strong>
-            <br />
-            <br />
             By using the Services, you represent and warrant that: (1) you have
             the legal capacity and you agree to comply with these Legal Terms;
             (2) you are not a minor in the jurisdiction in which you reside, or
@@ -205,13 +193,9 @@ const TermsAndConditions = () => {
             your account and refuse any and all current or future use of the
             Services (or any portion thereof).
           </p>
+          <h2>4. SUBSCRIPTIONS</h2>
+          <h3>Billing and Renewal</h3>
           <p>
-            <strong>4. SUBSCRIPTIONS</strong>
-            <br />
-            <br />
-            <strong>Billing and Renewal</strong>
-            <br />
-            <br />
             Your subscription will continue and renew automatically based on
             your consent. If you select an automatically renewing subscription
             plan, you consent to our charging your payment method on a recurring
@@ -220,35 +204,27 @@ const TermsAndConditions = () => {
             length of your billing cycle will depend on the type of subscription
             plan you choose when you subscribed to the Services.
           </p>
+          <h3>Free Trial</h3>
           <p>
-            <strong>Free Trial</strong>
-            <br />
-            <br />
             We offer a one free alarm setting to new users who register with the
             Services. More than that requires a subscription.
           </p>
+          <h3>Cancellation</h3>
           <p>
-            <strong>Cancellation</strong>
-            <br />
-            <br />
             You can cancel your subscription at any time by contacting us using
             the contact information provided below. Your cancellation will take
             effect at the end of the current paid term. If you have any
             questions or are unsatisfied with our Services, please email us at{" "}
             <strong>bridgelockapp@gmail.com.</strong>
           </p>
+          <h3>Fee Changes</h3>
           <p>
-            <strong>Fee Changes</strong>
-            <br />
-            <br />
             We may, from time to time, make changes to the subscription fee and
             will communicate any price changes to you in accordance with
             applicable law.
           </p>
+          <h2>5. PROHIBITED ACTIVITIES</h2>
           <p>
-            <strong>5. PROHIBITED ACTIVITIES</strong>
-            <br />
-            <br />
             You may not access or use the Services for any purpose other than
             that for which we make the Services available. The Services may not
             be used in connection with any commercial endeavors except those
@@ -371,10 +347,8 @@ const TermsAndConditions = () => {
             </li>
             <li>Sell or otherwise transfer your profile.</li>
           </ul>
+          <h2>6. USER GENERATED CONTRIBUTIONS</h2>
           <p>
-            <strong>6. USER GENERATED CONTRIBUTIONS</strong>
-            <br />
-            <br />
             The Services does not offer users to submit or post content. We may
             provide you with the opportunity to create, submit, post, display,
             transmit, perform, publish, distribute, or broadcast content and
@@ -461,10 +435,8 @@ const TermsAndConditions = () => {
             Legal Terms and may result in, among other things, termination or
             suspension of your rights to use the Services.
           </p>
+          <h2>7. CONTRIBUTION LICENSE</h2>
           <p>
-            <strong>7. CONTRIBUTION LICENSE</strong>
-            <br />
-            <br />
             You and Services agree that we may access, store, process, and use
             any information and personal data that you provide following the
             terms of the Privacy Policy and your choices (including settings).
@@ -485,13 +457,9 @@ const TermsAndConditions = () => {
             all responsibility and to refrain from any legal action against us
             regarding your Contributions.
           </p>
+          <h2>8. MOBILE APPLICATION LICENSE</h2>
+          <h3>Use License</h3>
           <p>
-            <strong>8. MOBILE APPLICATION LICENSE</strong>
-            <br />
-            <br />
-            <strong>Use License</strong>
-            <br />
-            <br />
             If you access the Services via the App, then we grant you a
             revocable, non-exclusive, non-transferable, limited right to install
             and use the App on wireless electronic devices owned or controlled
@@ -519,8 +487,8 @@ const TermsAndConditions = () => {
             distribution of any applications, accessories, or devices for use
             with the App.
           </p>
+          <h3>Apple and Android Devices</h3>
           <p>
-            <strong>Apple and Android Devices</strong>
             The following terms apply when you use the App obtained from either
             the Apple Store or Google Play (each an "App Distributor") to access
             the Services: (1) the license granted to you for our App is limited
@@ -556,20 +524,16 @@ const TermsAndConditions = () => {
             application license contained in these Legal Terms against you as a
             third-party beneficiary thereof.
           </p>
+          <h2>9. ADVERTISERS</h2>
           <p>
-            <strong>9. ADVERTISERS</strong>
-            <br />
-            <br />
             We allow advertisers to display their advertisements and other
             information in certain areas of the Services, such as sidebar
             advertisements or banner advertisements. We simply provide the space
             to place such advertisements, and we have no other relationship with
             advertisers.
           </p>
+          <h2>10. SERVICES MANAGEMENT</h2>
           <p>
-            <strong>10. SERVICES MANAGEMENT</strong>
-            <br />
-            <br />
             We reserve the right, but not the obligation, to: (1) monitor the
             Services for violations of these Legal Terms; (2) take appropriate
             legal action against anyone who, in our sole discretion, violates
@@ -585,10 +549,8 @@ const TermsAndConditions = () => {
             to protect our rights and property and to facilitate the proper
             functioning of the Services.
           </p>
+          <h2>11. PRIVACY POLICY</h2>
           <p>
-            <strong>11. PRIVACY POLICY</strong>
-            <br />
-            <br />
             We care about data privacy and security. Please review our Privacy
             Policy:{" "}
             <strong>https://p2p-alerts-web.vercel.app/privacy-policy</strong>.
@@ -602,10 +564,8 @@ const TermsAndConditions = () => {
             you expressly consent to have your data transferred to and processed
             in Singapore.
           </p>
+          <h2>12. TERM AND TERMINATION</h2>
           <p>
-            <strong>12. TERM AND TERMINATION</strong>
-            <br />
-            <br />
             These Legal Terms shall remain in full force and effect while you
             use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE
             LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND
@@ -627,10 +587,8 @@ const TermsAndConditions = () => {
             appropriate legal action, including without limitation pursuing
             civil, criminal, and injunctive redress.
           </p>
+          <h2>13. MODIFICATIONS AND INTERRUPTIONS</h2>
           <p>
-            <strong>13. MODIFICATIONS AND INTERRUPTIONS</strong>
-            <br />
-            <br />
             We reserve the right to change, modify, or remove the contents of
             the Services at any time or for any reason at our sole discretion
             without notice. However, we have no obligation to update any
@@ -652,23 +610,17 @@ const TermsAndConditions = () => {
             support the Services or to supply any corrections, updates, or
             releases in connection therewith.
           </p>
+          <h2>14. GOVERNING LAW</h2>
           <p>
-            <strong>14. GOVERNING LAW</strong>
-            <br />
-            <br />
             These Legal Terms shall be governed by and defined following the
             laws of Turkey. The owner of the app and yourself irrevocably
             consent that the courts of Turkey shall have exclusive jurisdiction
             to resolve any dispute which may arise in connection with these
             Legal Terms.
           </p>
+          <h2>15. DISPUTE RESOLUTION</h2>
+          <h3>Informal Negotiations</h3>
           <p>
-            <strong>15. DISPUTE RESOLUTION</strong>
-            <br />
-            <br />
-            <strong>Informal Negotiations</strong>
-            <br />
-            <br />
             To expedite resolution and control the cost of any dispute,
             controversy, or claim related to these Legal Terms (each a "Dispute"
             and collectively, the "Disputes") brought by either you or us
@@ -679,10 +631,8 @@ const TermsAndConditions = () => {
             negotiations commence upon written notice from one Party to the
             other Party.
           </p>
+          <h3>Binding Arbitration</h3>
           <p>
-            <strong>Binding Arbitration</strong>
-            <br />
-            <br />
             Any dispute arising out of or in connection with these Legal Terms,
             including any question regarding its existence, validity, or
             termination, shall be referred to and finally resolved by the
@@ -695,10 +645,8 @@ const TermsAndConditions = () => {
             proceedings shall be Turkish. The governing law of these Legal Terms
             shall be substantive law of Turkey.
           </p>
+          <h3>Restrictions</h3>
           <p>
-            <strong>Restrictions</strong>
-            <br />
-            <br />
             The Parties agree that any arbitration shall be limited to the
             Dispute between the Parties individually. To the full extent
             permitted by law, (a) no arbitration shall be joined with any other
@@ -708,10 +656,8 @@ const TermsAndConditions = () => {
             to be brought in a purported representative capacity on behalf of
             the general public or any other persons.
           </p>
+          <h3>Exceptions to Informal Negotiations and Arbitration</h3>
           <p>
-            <strong>Exceptions to Informal Negotiations and Arbitration</strong>
-            <br />
-            <br />
             The Parties agree that the following Disputes are not subject to the
             above provisions concerning informal negotiations binding
             arbitration: (a) any Disputes seeking to enforce or protect, or
@@ -726,10 +672,8 @@ const TermsAndConditions = () => {
             jurisdiction above, and the Parties agree to submit to the personal
             jurisdiction of that court.
           </p>
+          <h2>16. CORRECTIONS</h2>
           <p>
-            <strong>16. CORRECTIONS</strong>
-            <br />
-            <br />
             There may be information on the Services that contains typographical
             errors, inaccuracies, or omissions, including descriptions, pricing,
             availability, and various other information. We reserve the right to
@@ -737,10 +681,8 @@ const TermsAndConditions = () => {
             update the information on the Services at any time, without prior
             notice.
           </p>
+          <h2>17. DISCLAIMER</h2>
           <p>
-            <strong>17. DISCLAIMER</strong>
-            <br />
-            <br />
             THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU
             AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO
             THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES,
@@ -773,10 +715,8 @@ const TermsAndConditions = () => {
             YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE
             APPROPRIATE.
           </p>
+          <h2>18. LIMITATIONS OF LIABILITY</h2>
           <p>
-            <strong>18. LIMITATIONS OF LIABILITY</strong>
-            <br />
-            <br />
             IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE
             TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL,
             EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST
@@ -793,10 +733,8 @@ const TermsAndConditions = () => {
             DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE
             ADDITIONAL RIGHTS.
           </p>
+          <h2>19. INDEMNIFICATION</h2>
           <p>
-            <strong>19. INDEMNIFICATION</strong>
-            <br />
-            <br />
             You agree to defend, indemnify, and hold us harmless, including our
             subsidiaries, affiliates, and all of our respective officers,
             agents, partners, and employees, from and against any loss, damage,
@@ -815,10 +753,8 @@ const TermsAndConditions = () => {
             such claim, action, or proceeding which is subject to this
             indemnification upon becoming aware of it.
           </p>
+          <h2>20. USER DATA</h2>
           <p>
-            <strong>20. USER DATA</strong>
-            <br />
-            <br />
             We will maintain certain data that you transmit to the Services for
             the purpose of managing the performance of the Services, as well as
             data relating to your use of the Services. Although we perform
@@ -829,12 +765,8 @@ const TermsAndConditions = () => {
             you hereby waive any right of action against us arising from any
             such loss or corruption of such data.
           </p>
+          <h2>21. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES</h2>
           <p>
-            <strong>
-              21. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
-            </strong>
-            <br />
-            <br />
             Visiting the Services, sending us emails, and completing online
             forms constitute electronic communications. You consent to receive
             electronic communications, and you agree that all agreements,
@@ -850,20 +782,16 @@ const TermsAndConditions = () => {
             retention of non-electronic records, or to payments or the granting
             of credits by any means other than electronic means.
           </p>
+          <h2>22. CALIFORNIA USERS AND RESIDENTS</h2>
           <p>
-            <strong>22. CALIFORNIA USERS AND RESIDENTS</strong>
-            <br />
-            <br />
             If any complaint with us is not satisfactorily resolved, you can
             contact the Complaint Assistance Unit of the Division of Consumer
             Services of the California Department of Consumer Affairs in writing
             at 1625 North Market Blvd., Suite N 112, Sacramento, California
             95834 or by telephone at (800) 952-5210 or (916) 445-1254.
           </p>
+          <h2>23. MISCELLANEOUS</h2>
           <p>
-            <strong>23. MISCELLANEOUS </strong>
-            <br />
-            <br />
             These Legal Terms and any policies or operating rules posted by us
             on the Services or in respect to the Services constitute the entire
             agreement and understanding between you and us. Our failure to
@@ -885,10 +813,8 @@ const TermsAndConditions = () => {
             have based on the electronic form of these Legal Terms and the lack
             of signing by the parties hereto to execute these Legal Terms.
           </p>
+          <h2>24. CONTACT US</h2>
           <p>
-            <strong>24. CONTACT US</strong>
-            <br />
-            <br />
             In order to resolve a complaint regarding the Services or to receive
             further information regarding use of the Services, please contact us
             at: <strong>bridgelockapp@gmail.com</strong>
